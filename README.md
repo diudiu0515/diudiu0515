@@ -2,6 +2,7 @@
 
 <!--
 **diudiu0515/diudiu0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+->
 
 # Junqiao Wang
 
@@ -26,6 +27,12 @@ Coming soon...
 
 - MILP-Evoque
 - Course Projects at Tsinghua University
+
+## Beyond Research
+
+- 📷 Photography
+- 🍜 Exploring local cuisines
+- ✈️ Traveling and discovering diverse cultures and landscapes
 
 ## Contact
 
