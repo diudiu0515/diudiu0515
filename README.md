@@ -1,9 +1,5 @@
 # Hi there 👋
 
-<!--
-**diudiu0515/diudiu0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-->
-
 # Junqiao Wang
 
 🎓 Undergraduate student, Department of Computer Science and Technology at Tsinghua University.
