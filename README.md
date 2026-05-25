@@ -3,14 +3,30 @@
 <!--
 **diudiu0515/diudiu0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Junqiao Wang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Undergraduate student, Department of Computer Science and Technology at Tsinghua University.
+
+My research interests lie at the intersection of:
+
+- Machine Learning
+- Large Language Models
+
+🌱 Currently, I am exploring how evolutionary methods and data generation techniques can improve the evaluation and optimization capabilities of AI systems.
+
+## Research
+
+- MILP Instance Generation
+
+## Publications
+
+Coming soon...
+
+## Projects
+
+- MILP-Evoque
+- Course Projects at Tsinghua University
+
+## Contact
+
+📫Email: junqiao24@gmail.com
